@@ -1,50 +1,97 @@
 # Hi, I'm Aryan Nakade 👋
 
-### Full-Stack Developer | Backend | Cloud | Open Source
+### Backend / Full-Stack Developer
 
-I build scalable web applications and backend systems, and I'm currently
-deepening my skills in backend engineering, DevOps, and system design.
+I build web applications, backend systems, and developer-focused tools.
+
+Currently focused on **Node.js, TypeScript, databases, system design, and cloud engineering**.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-**Languages**
+### 🔹 CodeHub
+
+Role-based academic platform for students, teachers, and administrators.
+
+**React · Node.js · Express · MongoDB · JWT**
+
+→ [View Repository](https://github.com/Aryan107rn/CodeHub-Complete)
+
+### 🔹 Web Inspectra
+
+AI-powered website diagnostic platform that analyzes performance, accessibility, security, DOM structure, network activity, and technology stacks.
+
+**React · TypeScript · Node.js · Express · Gemini AI · Cheerio**
+
+→ [Live Demo](https://web-inspectra-frontend-main.vercel.app)
+
+→ [View Repository](https://github.com/Aryan107rn/Web_Inspectra)
+
+### 🔹 Ride Booking Backend
+
+REST API for a ride-booking system with driver availability, ride management, and API workflows.
+
+**Node.js · Express · JavaScript**
+
+→ [View Repository](https://github.com/Aryan107rn/Ride_Booking_System_Backend)
+
+### 🔹 BranchMind
+
+Collaborative AI workspace for organizing ideas and building connected knowledge structures.
+
+**React · Node.js · Express · Cognee**
+
+→ [View Repository](https://github.com/Aryan107rn/Branch_Mind)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
 C++ · Java · JavaScript · TypeScript
 
-**Frontend**
+### Frontend
+
 React · Tailwind CSS · Vite
 
-**Backend**
+### Backend
+
 Node.js · Express · REST APIs
 
-**Databases**
+### Databases
+
 PostgreSQL · MongoDB
 
-**DevOps / Cloud**
-Git · Docker · Linux · AWS
+### Tools & Infrastructure
+
+Git · GitHub · Linux · Docker
+
+### Currently Learning
+
+Cloud · System Design · Distributed Systems
 
 ---
 
-### 🚀 Featured Projects
+## 🌱 Open Source
 
-🔹 **CodeHub**  
-Role-based academic platform with student, teacher and admin workflows.
-
-🔹 **Ride Booking Backend**  
-REST API backend for drivers, rides, availability and booking workflows.
-
-🔹 **Web Inspectra**  
-AI-powered website diagnostic and analysis platform.
+Contributing to open-source projects and exploring real-world software engineering workflows.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub
 
-<!-- stats here -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan107rn\&show_icons=true\&hide_border=true\&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan107rn\&layout=compact\&hide_border=true\&theme=transparent)
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect
 
-[LinkedIn](YOUR_LINK) · [Portfolio](YOUR_LINK) · [Email](YOUR_EMAIL)
+[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
+
+---
+
+> Build. Break. Learn. Repeat.
