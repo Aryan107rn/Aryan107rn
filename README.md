@@ -10,14 +10,6 @@ Currently focused on **Node.js, TypeScript, databases, system design, and cloud 
 
 ## 🚀 Featured Projects
 
-### 🔹 CodeHub
-
-Role-based academic platform for students, teachers, and administrators.
-
-**React · Node.js · Express · MongoDB · JWT**
-
-→ [View Repository](https://github.com/Aryan107rn/CodeHub-Complete)
-
 ### 🔹 Web Inspectra
 
 AI-powered website diagnostic platform that analyzes performance, accessibility, security, DOM structure, network activity, and technology stacks.
@@ -28,13 +20,27 @@ AI-powered website diagnostic platform that analyzes performance, accessibility,
 
 → [View Repository](https://github.com/Aryan107rn/Web_Inspectra)
 
+---
+
 ### 🔹 Ride Booking Backend
 
-REST API for a ride-booking system with driver availability, ride management, and API workflows.
+REST API for a ride-booking system with driver availability, ride management, and booking workflows.
 
 **Node.js · Express · JavaScript**
 
 → [View Repository](https://github.com/Aryan107rn/Ride_Booking_System_Backend)
+
+---
+
+### 🔹 Student Management REST API
+
+Backend REST API for managing student records and performing CRUD operations through structured API endpoints.
+
+**Node.js · Express · REST API**
+
+→ [View Repository](https://github.com/Aryan107rn/Student-Management-REST-API)
+
+---
 
 ### 🔹 BranchMind
 
