@@ -91,6 +91,9 @@ Contributing to open-source projects and exploring real-world software engineeri
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan107rn\&show_icons=true\&hide_border=true\&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan107rn\&layout=compact\&hide_border=true\&theme=transparent)
+## My GitHub Skyline 🌆
+
+![My Skyline](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/skyline.svg)
 
 ---
 
