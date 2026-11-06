@@ -93,7 +93,7 @@ Contributing to open-source projects and exploring real-world software engineeri
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan107rn\&layout=compact\&hide_border=true\&theme=transparent)
 ## My GitHub Skyline 🌆
 
-![My Skyline](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/skyline.svg)
+![My Skyline](https://raw.githubusercontent.com/Aryan107rn/Aryan107rn/output/skyline.svg)
 
 ---
 
