@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aryan Nakade 👋
+# Hi, I'm Aryan Nakade 
 
 ### Backend & Full-Stack Developer
 
