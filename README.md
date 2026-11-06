@@ -48,13 +48,7 @@ A collaborative AI workspace for organizing ideas and building connected knowled
 **Databases:** PostgreSQL · MongoDB  
 **Tools:** Git · GitHub · Linux · Docker
 
-## GitHub
 
-<div align="center">
-
-[View my GitHub profile and contribution activity](https://github.com/Aryan107rn) · [Browse my repositories and languages](https://github.com/Aryan107rn?tab=repositories)
-
-</div>
 
 ## Get in touch
 
