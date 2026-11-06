@@ -52,10 +52,7 @@ A collaborative AI workspace for organizing ideas and building connected knowled
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan107rn&show_icons=true&hide_border=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan107rn&layout=compact&hide_border=true&theme=transparent)
-
-[![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan107rn&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true)](https://github.com/Aryan107rn)
+[View my GitHub profile and contribution activity](https://github.com/Aryan107rn) · [Browse my repositories and languages](https://github.com/Aryan107rn?tab=repositories)
 
 </div>
 
