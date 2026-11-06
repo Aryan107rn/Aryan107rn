@@ -64,5 +64,7 @@ A collaborative AI workspace for organizing ideas and building connected knowled
 Feel free to explore my repositories or connect with me on [GitHub](https://github.com/Aryan107rn).
 
 ---
+## My GitHub Skyline 🌆
 
+![My Skyline](https://raw.githubusercontent.com/Aryan107rn/Aryan107rn/output/skyline.svg)
 > Build thoughtfully. Keep learning. Ship useful things.
