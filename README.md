@@ -2,7 +2,7 @@
 
 # Hi, I'm Aryan Nakade 
 
-### Backend & Full-Stack Developer
+### Full-Stack Developer
 
 I build practical web applications and backend services, with a focus on **Node.js, TypeScript, APIs, and databases**.
 
